@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(231, 148, 22);
+}
+h1{
+    color:black;
+    text-align: center;
+}
+p{
+    background-color: rgb(59, 168, 201);
+    width: 30%;
+    margin-left: 500px;
+    padding: 25px;
+    letter-spacing: 2px;
+    border: solid yellowgreen;
+    border-radius: 20px;
+}
